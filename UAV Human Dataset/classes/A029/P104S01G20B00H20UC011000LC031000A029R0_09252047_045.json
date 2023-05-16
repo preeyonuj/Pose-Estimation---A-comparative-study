@@ -1,0 +1,130 @@
+{
+  "completions": [
+    {
+      "created_at": 1602146775,
+      "id": 206001,
+      "lead_time": 26.243,
+      "result": [
+        {
+          "from_name": "kp-1",
+          "id": "jOp-Cw2F3O",
+          "image_rotation": 0,
+          "original_height": 1080,
+          "original_width": 1920,
+          "parent_id": null,
+          "source": "$img",
+          "to_name": "img-1",
+          "type": "keypointlabels",
+          "value": {
+            "keypointlabels": [
+              "nose"
+            ],
+            "width": 0.26666666666666666,
+            "x": 41.333333333333336,
+            "y": 38.62559241706161
+          }
+        },
+        {
+          "from_name": "kp-1",
+          "id": "PHG90NnEEP",
+          "image_rotation": 0,
+          "original_height": 1080,
+          "original_width": 1920,
+          "parent_id": null,
+          "source": "$img",
+          "to_name": "img-1",
+          "type": "keypointlabels",
+          "value": {
+            "keypointlabels": [
+              "leftEar"
+            ],
+            "width": 0.26666666666666666,
+            "x": 41.06666666666667,
+            "y": 37.203791469194314
+          }
+        },
+        {
+          "from_name": "kp-1",
+          "id": "W5wwPAbVVd",
+          "image_rotation": 0,
+          "original_height": 1080,
+          "original_width": 1920,
+          "parent_id": null,
+          "source": "$img",
+          "to_name": "img-1",
+          "type": "keypointlabels",
+          "value": {
+            "keypointlabels": [
+              "leftShoulder"
+            ],
+            "width": 0.26666666666666666,
+            "x": 42.666666666666664,
+            "y": 37.677725118483416
+          }
+        },
+        {
+          "from_name": "kp-1",
+          "id": "TdaaC5kxgC",
+          "image_rotation": 0,
+          "original_height": 1080,
+          "original_width": 1920,
+          "parent_id": null,
+          "source": "$img",
+          "to_name": "img-1",
+          "type": "keypointlabels",
+          "value": {
+            "keypointlabels": [
+              "leftHip"
+            ],
+            "width": 0.26666666666666666,
+            "x": 45.6,
+            "y": 37.203791469194314
+          }
+        },
+        {
+          "from_name": "kp-1",
+          "id": "fAmEZ8WZt-",
+          "image_rotation": 0,
+          "original_height": 1080,
+          "original_width": 1920,
+          "parent_id": null,
+          "source": "$img",
+          "to_name": "img-1",
+          "type": "keypointlabels",
+          "value": {
+            "keypointlabels": [
+              "rightHip"
+            ],
+            "width": 0.26666666666666666,
+            "x": 46,
+            "y": 34.834123222748815
+          }
+        },
+        {
+          "from_name": "kp-1",
+          "id": "-NvKh4n_B-",
+          "image_rotation": 0,
+          "original_height": 1080,
+          "original_width": 1920,
+          "parent_id": null,
+          "source": "$img",
+          "to_name": "img-1",
+          "type": "keypointlabels",
+          "value": {
+            "keypointlabels": [
+              "rightShoulder"
+            ],
+            "width": 0.26666666666666666,
+            "x": 42.13333333333333,
+            "y": 35.07109004739336
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "img": "/data/P104S01G20B00H20UC011000LC031000A029R0_09252047_089.jpg?d=%2Fhome%2Flitianjiao%2FSUTDDatasetProcess%2Fsplits%2Flabel_02"
+  },
+  "id": 206,
+  "task_path": "/home/litianjiao/SUTDDatasetProcess/splits/label_02/P104S01G20B00H20UC011000LC031000A029R0_09252047_089.jpg"
+}

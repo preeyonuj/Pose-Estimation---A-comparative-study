@@ -1,0 +1,263 @@
+{
+  "completions": [
+    {
+      "created_at": 1601919892,
+      "id": 1485001,
+      "lead_time": 14.751,
+      "result": [
+        {
+          "from_name": "kp-1",
+          "id": "KlvLW6AXX2",
+          "image_rotation": 0,
+          "original_height": 1080,
+          "original_width": 1920,
+          "parent_id": null,
+          "source": "$img",
+          "to_name": "img-1",
+          "type": "keypointlabels",
+          "value": {
+            "keypointlabels": [
+              "nose"
+            ],
+            "width": 0.3252032520325203,
+            "x": 36.260162601626014,
+            "y": 34.20289855072464
+          }
+        },
+        {
+          "from_name": "kp-1",
+          "id": "MsvviETy5P",
+          "image_rotation": 0,
+          "original_height": 1080,
+          "original_width": 1920,
+          "parent_id": null,
+          "source": "$img",
+          "to_name": "img-1",
+          "type": "keypointlabels",
+          "value": {
+            "keypointlabels": [
+              "leftEye"
+            ],
+            "width": 0.3252032520325203,
+            "x": 36.260162601626014,
+            "y": 33.333333333333336
+          }
+        },
+        {
+          "from_name": "kp-1",
+          "id": "NwBavIBe4q",
+          "image_rotation": 0,
+          "original_height": 1080,
+          "original_width": 1920,
+          "parent_id": null,
+          "source": "$img",
+          "to_name": "img-1",
+          "type": "keypointlabels",
+          "value": {
+            "keypointlabels": [
+              "leftEar"
+            ],
+            "width": 0.3252032520325203,
+            "x": 37.886178861788615,
+            "y": 34.20289855072464
+          }
+        },
+        {
+          "from_name": "kp-1",
+          "id": "LDEUEkaXkc",
+          "image_rotation": 0,
+          "original_height": 1080,
+          "original_width": 1920,
+          "parent_id": null,
+          "source": "$img",
+          "to_name": "img-1",
+          "type": "keypointlabels",
+          "value": {
+            "keypointlabels": [
+              "leftShoulder"
+            ],
+            "width": 0.3252032520325203,
+            "x": 39.51219512195122,
+            "y": 39.710144927536234
+          }
+        },
+        {
+          "from_name": "kp-1",
+          "id": "n7DRsKQC-C",
+          "image_rotation": 0,
+          "original_height": 1080,
+          "original_width": 1920,
+          "parent_id": null,
+          "source": "$img",
+          "to_name": "img-1",
+          "type": "keypointlabels",
+          "value": {
+            "keypointlabels": [
+              "rightShoulder"
+            ],
+            "width": 0.3252032520325203,
+            "x": 38.699186991869915,
+            "y": 37.10144927536232
+          }
+        },
+        {
+          "from_name": "kp-1",
+          "id": "3SjHl8EI3G",
+          "image_rotation": 0,
+          "original_height": 1080,
+          "original_width": 1920,
+          "parent_id": null,
+          "source": "$img",
+          "to_name": "img-1",
+          "type": "keypointlabels",
+          "value": {
+            "keypointlabels": [
+              "leftElbow"
+            ],
+            "width": 0.3252032520325203,
+            "x": 41.13821138211382,
+            "y": 49.27536231884058
+          }
+        },
+        {
+          "from_name": "kp-1",
+          "id": "tye5JEqGDo",
+          "image_rotation": 0,
+          "original_height": 1080,
+          "original_width": 1920,
+          "parent_id": null,
+          "source": "$img",
+          "to_name": "img-1",
+          "type": "keypointlabels",
+          "value": {
+            "keypointlabels": [
+              "leftWrist"
+            ],
+            "width": 0.3252032520325203,
+            "x": 41.300813008130085,
+            "y": 57.391304347826086
+          }
+        },
+        {
+          "from_name": "kp-1",
+          "id": "N0gMGO7h6p",
+          "image_rotation": 0,
+          "original_height": 1080,
+          "original_width": 1920,
+          "parent_id": null,
+          "source": "$img",
+          "to_name": "img-1",
+          "type": "keypointlabels",
+          "value": {
+            "keypointlabels": [
+              "leftHip"
+            ],
+            "width": 0.3252032520325203,
+            "x": 39.83739837398374,
+            "y": 54.492753623188406
+          }
+        },
+        {
+          "from_name": "kp-1",
+          "id": "ozw95rRWzv",
+          "image_rotation": 0,
+          "original_height": 1080,
+          "original_width": 1920,
+          "parent_id": null,
+          "source": "$img",
+          "to_name": "img-1",
+          "type": "keypointlabels",
+          "value": {
+            "keypointlabels": [
+              "rightHip"
+            ],
+            "width": 0.3252032520325203,
+            "x": 39.02439024390244,
+            "y": 53.6231884057971
+          }
+        },
+        {
+          "from_name": "kp-1",
+          "id": "cYVq2Hqp6s",
+          "image_rotation": 0,
+          "original_height": 1080,
+          "original_width": 1920,
+          "parent_id": null,
+          "source": "$img",
+          "to_name": "img-1",
+          "type": "keypointlabels",
+          "value": {
+            "keypointlabels": [
+              "leftKnee"
+            ],
+            "width": 0.3252032520325203,
+            "x": 40.32520325203252,
+            "y": 65.5072463768116
+          }
+        },
+        {
+          "from_name": "kp-1",
+          "id": "7xcLsBl17N",
+          "image_rotation": 0,
+          "original_height": 1080,
+          "original_width": 1920,
+          "parent_id": null,
+          "source": "$img",
+          "to_name": "img-1",
+          "type": "keypointlabels",
+          "value": {
+            "keypointlabels": [
+              "rightKnee"
+            ],
+            "width": 0.3252032520325203,
+            "x": 41.46341463414634,
+            "y": 63.47826086956522
+          }
+        },
+        {
+          "from_name": "kp-1",
+          "id": "cWYGAhRCJt",
+          "image_rotation": 0,
+          "original_height": 1080,
+          "original_width": 1920,
+          "parent_id": null,
+          "source": "$img",
+          "to_name": "img-1",
+          "type": "keypointlabels",
+          "value": {
+            "keypointlabels": [
+              "leftAnkle"
+            ],
+            "width": 0.3252032520325203,
+            "x": 41.46341463414634,
+            "y": 73.04347826086956
+          }
+        },
+        {
+          "from_name": "kp-1",
+          "id": "tSyaEVBKrT",
+          "image_rotation": 0,
+          "original_height": 1080,
+          "original_width": 1920,
+          "parent_id": null,
+          "source": "$img",
+          "to_name": "img-1",
+          "type": "keypointlabels",
+          "value": {
+            "keypointlabels": [
+              "rightAnkle"
+            ],
+            "width": 0.3252032520325203,
+            "x": 41.951219512195124,
+            "y": 70.14492753623189
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "img": "/data/P078S01G10B00H20UC072000LC031000A023R0_09171105_336.jpg?d=%2Fdata%2Furop_action%2FSUTDActionDataset%2Flabel_cropped_data_storage%2Fraw_data_3"
+  },
+  "id": 1485,
+  "task_path": "/data/urop_action/SUTDActionDataset/label_cropped_data_storage/raw_data_3/P078S01G10B00H20UC072000LC031000A023R0_09171105_336.jpg"
+}
