@@ -5,7 +5,7 @@ The project focuses on implementing the OpenPose model and fine-tuning it using 
 - `Blaze_Pose/` 
   - Contains `PoseEstimation_BlazePose.py` python files for Blazepose model implemented using mediapipe
   - `test_files.txt` contains test images path and `json_files.txt` contains json file path for corresponding images
-  -  `Results/` contains annotated images obtained from running BlazePose model 
+  -  `Results/` contains annotated images obtained from running BlazePose model on test images dataset
 - `UAV Human Dataset/classes` contains  Unmanned Aerial Vehicle dataset used for our method
   
  
