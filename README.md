@@ -5,9 +5,9 @@ The paper presents a comparative study of the performance of three Pose Estimati
 - `UAV Human Dataset/classes` contains  Unmanned Aerial Vehicle dataset used for our method
 
 - `Blaze_Pose/` 
-  - Contains `PoseEstimation_BlazePose.py` python files for Blazepose model implemented using mediapipe
-  - `test_files.txt` contains test images path and `json_files.txt` contains json file path for corresponding images
-  -  `Results/` contains annotated images obtained from running BlazePose model on test images dataset
+  - Contains `PoseEstimation_BlazePose.py` python files for Blazepose model implemented using mediapipe.
+  - `test_files.txt` contains test images dataset path (./classes/) and `json_files.txt` contains json file path (./classes/) for corresponding images.
+  -  `Results/` contains annotated images obtained from running BlazePose model on test images dataset.
   
 - `MoveNet_Lightning/` 
   - Contains `lite-model_movenet_singlepose_lightning_3.tflite`, the lightweight MoveNet lightning model.
