@@ -6,7 +6,8 @@ The paper presents a comparative study of the performance of three Pose Estimati
 
 - `Blaze_Pose/` 
   - Contains `PoseEstimation_BlazePose.py` python files for Blazepose model implemented using mediapipe.
-  - `test_files.txt` contains test images dataset path (./classes/) and `json_files.txt` contains json file path (./classes/) for corresponding images.
+  - `test_files.txt` contains test images dataset path and `json_files.txt` contains json file path for corresponding images.
+  - While running the code, keep UAV Human dataset `classes` folder within `Blaze_Pose` directory
   -  `Results/` contains annotated images obtained from running BlazePose model on test images dataset.
   
 - `MoveNet_Lightning/` 
